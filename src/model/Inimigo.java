@@ -39,5 +39,5 @@ public class Inimigo {
 	public Inimigo() {
 		
 	}
-	
+// teste diego	
 }
