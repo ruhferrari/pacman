@@ -26,6 +26,9 @@ public class Tabuleiro {
 		this.pos = pos;
 	}
 	
-
+public void iniciarTabuleiro(){
+	System.out.println("PACMAN começou!");
+	
+}
 	
 }
