@@ -33,5 +33,9 @@ public class Personagem {
 	public Personagem() {
 
 	}
+	public int[][] nascer() {
+		int[][] posPacman = new int[6][9];
+		return posPacman;
+	}
 	
 }
